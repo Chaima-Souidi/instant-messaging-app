@@ -1,4 +1,4 @@
-# Instant Messaging Ap
+# Instant Messaging App
 
 ![Java 21](https://img.shields.io/badge/Java-21-blue.svg)
 ![Vert.x](https://img.shields.io/badge/Eclipse%20Vert.x-5.0.0-purple)
