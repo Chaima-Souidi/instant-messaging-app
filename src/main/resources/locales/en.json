@@ -1,0 +1,37 @@
+{
+  "header.nav.home": "Home",
+  "header.nav.login": "Log In",
+  "header.nav.register": "Register",
+  "header.nav.language": "Language",
+
+  "page.login.title": "Log In",
+  "page.login.username": "Username",
+  "page.login.username.placeholder": "Enter your username",
+  "page.login.password": "Password",
+  "page.login.password.placeholder": "Enter your password",
+  "page.login.button": "Log in",
+  "page.login.new_here": "New here?",
+  "page.login.register": "Register",
+  "page.login.error.invalid_credentials": "Invalid username or password.",
+
+  "page.register.title": "Register",
+  "page.register.username": "Username",
+  "page.register.username.placeholder": "Choose a username",
+  "page.register.password": "Password",
+  "page.register.password.placeholder": "Create a password",
+  "page.register.button": "Register",
+  "page.register.already_account": "Already have an account?",
+  "page.register.login": "Log In",
+
+  "chat.message.me": "Me",
+  "chat.empty_state": "Start the conversation!",
+  "chat.input.placeholder": "Write your thoughts!",
+  "chat.input.button": "Send",
+
+  "message.details.author": "Author:",
+  "message.details.raw_content": "Raw Content:",
+  "message.details.content": "Content:",
+  "message.details.date": "Date:",
+
+  "footer.rights": "All rights reserved."
+}

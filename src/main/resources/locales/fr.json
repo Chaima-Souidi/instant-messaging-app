@@ -1,0 +1,37 @@
+{
+  "header.nav.home": "Accueil",
+  "header.nav.login": "Connexion",
+  "header.nav.register": "S'inscrire",
+  "header.nav.language": "Langue",
+
+  "page.login.title": "Connexion",
+  "page.login.username": "Nom d'utilisateur",
+  "page.login.username.placeholder": "Entrez votre nom d'utilisateur",
+  "page.login.password": "Mot de passe",
+  "page.login.password.placeholder": "Entrez votre mot de passe",
+  "page.login.button": "Se connecter",
+  "page.login.new_here": "Nouveau ici ?",
+  "page.login.register": "S'inscrire",
+  "page.login.error.invalid_credentials": "Identifiant ou mot de passe incorrect.",
+
+  "page.register.title": "S'inscrire",
+  "page.register.username": "Nom d'utilisateur",
+  "page.register.username.placeholder": "Choisissez un nom d'utilisateur",
+  "page.register.password": "Mot de passe",
+  "page.register.password.placeholder": "Créez un mot de passe",
+  "page.register.button": "S'inscrire",
+  "page.register.already_account": "Vous avez déjà un compte ?",
+  "page.register.login": "Se connecter",
+
+  "chat.message.me": "Moi",
+  "chat.empty_state": "Commencez la conversation !",
+  "chat.input.placeholder": "Écrivez vos pensées !",
+  "chat.input.button": "Envoyer",
+
+  "message.details.author": "Auteur :",
+  "message.details.raw_content": "Contenu brut :",
+  "message.details.content": "Contenu :",
+  "message.details.date": "Date :",
+
+  "footer.rights": "Tous droits réservés."
+}

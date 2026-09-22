@@ -1,0 +1,37 @@
+{
+  "header.nav.home": "Inicio",
+  "header.nav.login": "Iniciar sesión",
+  "header.nav.register": "Registrarse",
+  "header.nav.language": "Idioma",
+
+  "page.login.title": "Iniciar sesión",
+  "page.login.username": "Nombre de usuario",
+  "page.login.username.placeholder": "Ingresa tu usuario",
+  "page.login.password": "Contraseña",
+  "page.login.password.placeholder": "Ingresa tu contraseña",
+  "page.login.button": "Conectarse",
+  "page.login.new_here": "¿Eres nuevo aquí?",
+  "page.login.register": "Registrarse",
+  "page.login.error.invalid_credentials": "Usuario o contraseña incorrectos.",
+
+  "page.register.title": "Registrarse",
+  "page.register.username": "Nombre de usuario",
+  "page.register.username.placeholder": "Elige un nombre de usuario",
+  "page.register.password": "Contraseña",
+  "page.register.password.placeholder": "Crea una contraseña",
+  "page.register.button": "Registrarse",
+  "page.register.already_account": "¿Ya tienes una cuenta?",
+  "page.register.login": "Iniciar sesión",
+
+  "chat.message.me": "Yo",
+  "chat.empty_state": "¡Empieza la conversación!",
+  "chat.input.placeholder": "¡Escribe tus pensamientos!",
+  "chat.input.button": "Enviar",
+
+  "message.details.author": "Autor:",
+  "message.details.raw_content": "Contenido sin formato:",
+  "message.details.content": "Contenido:",
+  "message.details.date": "Fecha:",
+
+  "footer.rights": "Todos los derechos reservados."
+}

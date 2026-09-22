@@ -1,0 +1,15 @@
+package com.mailbox.instant_messaging.database;
+
+public enum SqlQuery {
+  CREATE_MESSAGES_TABLE,
+  GET_20_LAST_MESSAGES,
+  GET_MESSAGE,
+  GET_ALL_MESSAGES,
+  DELETE_MESSAGE,
+  SAVE_MESSAGE,
+  CREATE_MESSAGE,
+
+  CREATE_USERS_TABLE,
+  GET_USER,
+  CREATE_USER
+}
