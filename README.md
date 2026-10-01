@@ -21,7 +21,7 @@ This project implements a reactive backend using **Java 21** and **Eclipse Vert.
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/Chaima-Souidi/instant-messaging-app.git](https://github.com/Chaima-Souidi/instant-messaging-app.git)
+   git clone https://github.com/Chaima-Souidi/instant-messaging-app.git
    cd instant-messaging-app
    ```
 
